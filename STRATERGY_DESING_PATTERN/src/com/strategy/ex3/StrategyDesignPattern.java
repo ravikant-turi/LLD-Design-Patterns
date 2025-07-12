@@ -1,4 +1,4 @@
-package com.strategy.ex;
+package com.strategy.ex3;
 
 
 //--- Strategy Interface for Walk ---
