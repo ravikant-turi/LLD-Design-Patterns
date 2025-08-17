@@ -141,7 +141,7 @@ public class AbstractFactory {
 
         MealFactory mealFactory = new SinghBurger();
 
-        Burger burger = mealFactory.createBurger(burgerType);
+		Burger burger = mealFactory.createBurger(burgerType);
         GarlicBread garlicBread = mealFactory.createGarlicBread(garlicBreadType);
 
         if (burger != null) burger.prepare();

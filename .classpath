@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="FACTORY_DESIGN_PATTERN/src"/>
+	<classpathentry kind="src" path="ObserverDesignPattern/src"/>
+	<classpathentry kind="src" path="SolidPrinciple"/>
+	<classpathentry kind="src" path="STRATEGY_DESING_PATTERN/src"/>
+	<classpathentry kind="output" path="FACTORY_DESIGN_PATTERN/bin"/>
+</classpath>

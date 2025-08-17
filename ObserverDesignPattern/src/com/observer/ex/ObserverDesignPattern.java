@@ -77,7 +77,6 @@ public class ObserverDesignPattern {
 	public static void main(String[] args) {
         // Create a channel and subscribers
         Channel channel = new Channel("CoderArmy");
-        
         Subscriber subs1 = new Subscriber("Varun", channel);
         Subscriber subs2 = new Subscriber("Tarun", channel);
         
