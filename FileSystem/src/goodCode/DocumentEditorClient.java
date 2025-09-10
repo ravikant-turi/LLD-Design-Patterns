@@ -98,7 +98,7 @@ class DBStorage implements Persistence {
 }
 
 class DocumentEditor {
-	
+
 	private Document document;
 	private Persistence storage;
 	private String renderedDocument = "";
@@ -148,7 +148,7 @@ public class DocumentEditorClient {
 		// Simulate a client using the editor with common text formatting features.
 		editor.addText("Hello, world!");
 		editor.addNewLine();
-		
+
 		editor.addText("This is a real-world document editor example.");
 		editor.addNewLine();
 		editor.addTabSpace();
