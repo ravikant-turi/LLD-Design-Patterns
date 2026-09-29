@@ -1,6 +1,7 @@
 # LLD-Design-Patterns
 
 🏗️ Types of Design Patterns
+      
        1. Creational Patterns (Object Creation)
               These deal with how objects are created, ensuring flexibility and reusability.
 
