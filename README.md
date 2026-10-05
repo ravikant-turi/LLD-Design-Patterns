@@ -2,44 +2,44 @@
 
 🏗️ Types of Design Patterns
       
-       1. Creational Patterns (Object Creation)
+1. Creational Patterns (Object Creation)
               These deal with how objects are created, ensuring flexibility and reusability.
 
-1.Singleton – Ensures only one instance of a class exists.
+       1.Singleton – Ensures only one instance of a class exists.
 
-2,Factory Method – Delegates object creation to subclasses.
+       2.Factory Method – Delegates object creation to subclasses.
 
-3.Abstract Factory – Creates families of related objects without specifying concrete classes.
+       3.Abstract Factory – Creates families of related objects without specifying concrete classes.
 
-4.Builder – Constructs complex objects step by step.
+       4.Builder – Constructs complex objects step by step.
 
-5.Prototype – Creates new objects by cloning existing ones.
+       5.Prototype – Creates new objects by cloning existing ones.
 
 2. Structural Patterns (Object Composition)
 Focus on organizing classes and objects into larger structures while keeping them efficient.
 
-Adapter – Bridges incompatible interfaces.
+       1.Adapter – Bridges incompatible interfaces.
 
-Bridge – Separates abstraction from implementation.
+       2.Bridge – Separates abstraction from implementation.
 
-Composite – Treats individual objects and groups uniformly.
+       3.Composite – Treats individual objects and groups uniformly.
 
-Decorator – Adds responsibilities dynamically without altering the original class.
+       4.Decorator – Adds responsibilities dynamically without altering the original class.
 
-Facade – Provides a simplified interface to complex subsystems.
+       5.Facade – Provides a simplified interface to complex subsystems.
 
-Flyweight – Shares common state to reduce memory usage.
+       6.Flyweight – Shares common state to reduce memory usage.
 
-Proxy – Controls access to another object.
+       7.Proxy – Controls access to another object.
 
 3. Behavioral Patterns (Object Interaction)
 Define how objects communicate and distribute responsibilities.
 
-Observer – Notifies multiple objects of state changes (e.g., event listeners).
+       1.Observer – Notifies multiple objects of state changes (e.g., event listeners).
 
-Strategy – Defines interchangeable algorithms.
+       2.Strategy – Defines interchangeable algorithms.
 
-Command – Encapsulates requests as objects.
+       3.Command – Encapsulates requests as objects.
 
 State – Allows an object to change behavior when its state changes.
 
