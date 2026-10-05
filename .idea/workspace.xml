@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93d207f8-3253-4e02-bce8-a213d66db44d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/.idea/Behavioral.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/StrategyDesignPattern01/StrategyDesignPattern01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/StrategyDesignPattern01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Behavioral/out/production/StrategyDesignPattern01/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3K0fCzHzKwFfdymJ7YUVeTRzquS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/LLD-Design-Patterns&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93d207f8-3253-4e02-bce8-a213d66db44d" name="Changes" comment="" />
+      <created>1790699282436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790699282436</updated>
+    </task>
+    <servers />
+  </component>
+</project>
