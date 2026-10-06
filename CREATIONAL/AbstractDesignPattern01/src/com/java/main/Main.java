@@ -191,6 +191,7 @@ public class Main {
 	String type = "Premium";
 	
 //	MealFactory mealFactory = new KingFactory();
+	
 	MealFactory mealFactory = new SingFactory();
 	
 	Burger burger=mealFactory.createBurger(type);
