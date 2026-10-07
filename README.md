@@ -41,18 +41,18 @@ Define how objects communicate and distribute responsibilities.
 
        3.Command – Encapsulates requests as objects.
 
-State – Allows an object to change behavior when its state changes.
+       4.State – Allows an object to change behavior when its state changes.
 
-Iterator – Provides sequential access to elements.
+       5.Iterator – Provides sequential access to elements.
 
-Chain of Responsibility – Passes requests along a chain until handled.
+       6.Chain of Responsibility – Passes requests along a chain until handled.
 
-Mediator – Centralizes complex communication between objects.
+       7.Mediator – Centralizes complex communication between objects.
 
-Memento – Captures and restores an object’s state.
+       8.Memento – Captures and restores an object’s state.
 
-Visitor – Adds new operations without modifying classes.
+       9.Visitor – Adds new operations without modifying classes.
 
-Template Method – Defines the skeleton of an algorithm, allowing subclasses to refine steps.
+       10.Template Method – Defines the skeleton of an algorithm, allowing subclasses to refine steps.
 
-Interpreter – Defines grammar and interprets expressions.
+       11.Interpreter – Defines grammar and interprets expressions.
