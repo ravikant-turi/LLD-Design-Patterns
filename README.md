@@ -15,7 +15,7 @@
 
        5.Prototype – Creates new objects by cloning existing ones.
 
-2. Structural Patterns (Object Composition)
+3. Structural Patterns (Object Composition)
 Focus on organizing classes and objects into larger structures while keeping them efficient.
 
        1.Adapter – Bridges incompatible interfaces.
@@ -32,7 +32,7 @@ Focus on organizing classes and objects into larger structures while keeping the
 
        7.Proxy – Controls access to another object.
 
-3. Behavioral Patterns (Object Interaction)
+4. Behavioral Patterns (Object Interaction)
 Define how objects communicate and distribute responsibilities.
 
        1.Observer – Notifies multiple objects of state changes (e.g., event listeners).
@@ -56,3 +56,11 @@ Define how objects communicate and distribute responsibilities.
        10.Template Method – Defines the skeleton of an algorithm, allowing subclasses to refine steps.
 
        11.Interpreter – Defines grammar and interprets expressions.
+
+ 
+ 5. PROJECT : 
+      
+        1. FOOD DELIVERY : Zomato  [ Singleton ,Strategy,Factory ]
+    2.Notification system
+   
+       
